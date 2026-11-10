@@ -1,0 +1,18 @@
+{
+  "name": "digitalvoraus",
+  "owner": {
+    "name": "digital voraus"
+  },
+  "metadata": {
+    "description": "Gemeinsame Claude-Skills von digital voraus (Andreas & Sonja)",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "digitalvoraus",
+      "source": "./plugins/digitalvoraus",
+      "description": "CI, Social-Post-Workflow und Kunden-Onboarding für digital voraus",
+      "version": "1.0.0"
+    }
+  ]
+}
