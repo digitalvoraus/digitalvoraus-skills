@@ -37,6 +37,7 @@ LinkedIn ist kein Brand-Kanal im Guide → Profil/Seite beim Nutzer erfragen, ni
 
 ## 4. Text-Regeln
 - Zeile 1 = Hook, kurze Bildsätze, einfaches Englisch
+- Keine Serien-Nummern im Text („Postcard #2“ → „Postcard from Vienna to Manila“)
 - Max. 1–2 Emojis, keine „Check out our new song!!!“, keine Superlative
 - Sign-off optional: "Feel the Groove."
 - Link: Spotify-Link zum jeweiligen Song (Liste in `wuha-brand`), nicht Artist-Link
