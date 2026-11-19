@@ -40,7 +40,7 @@ LinkedIn ist kein Brand-Kanal im Guide → Profil/Seite beim Nutzer erfragen, ni
 - Max. 1–2 Emojis, keine „Check out our new song!!!“, keine Superlative
 - Sign-off optional: "Feel the Groove."
 - Link: Spotify-Link zum jeweiligen Song (Liste in `wuha-brand`), nicht Artist-Link
-- Hashtags: Instagram 3–5, TikTok 3–4, YouTube 3, Facebook 1–2, LinkedIn 3. Basis: `#WUHA #synthpop #synthwave #80s #newmusic`
+- Hashtags: **immer `#wuha #musiclovers` dazu** (auf jedem Kanal), plus Instagram 3–5, TikTok 3–4, YouTube 3, Facebook 1–2, LinkedIn 3 thematische. Pool: `#synthpop #synthwave #80smusic #newmusic #postcardsfromvienna`
 - Fehlendes Datum/Info → Platzhalter `[RELEASE DATE]`, nachfragen
 
 ## 5. Medien
