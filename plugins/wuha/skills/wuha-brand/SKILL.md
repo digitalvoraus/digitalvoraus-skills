@@ -64,6 +64,16 @@ Dieser Guide gilt für drei Rollen: **Marketing**, **Design** und **Texter**. Li
 - "Caroline (feat. Marc Voc)", 28.02.2025
 - Ein Album ist geplant, Titel und Datum stehen noch nicht fest. CTA: "Be the first to know when our album is released"
 
+### Spotify-Links pro Song (für Captions immer den Song-Link statt Artist-Link)
+- Losing My Shape: https://open.spotify.com/track/16n7RpZmUyQnW5STC019jN
+- Nothing Is Forever: https://open.spotify.com/track/1g9xdWG7Yqet8LbOc3vEO4
+- Rainbow Eyes (EDM Club Mix): https://open.spotify.com/track/2DHeoxnDEtiCUJo7u6MoEx
+- Rainbow Eyes: https://open.spotify.com/track/0MfSlR26pT9XLhfOCopd6Q
+- Caroline (Extended Club Mix): https://open.spotify.com/track/6RmhEHvWrRInEDPOYtmfQX
+- Caroline (feat. Marc Voc): https://open.spotify.com/track/7rPiPqKrZdgBROQXhWjUPz
+- Caroline (Instrumental Version): https://open.spotify.com/track/589hfViiZYBoymyzSOSV7H
+- Alle Links auch auf www.wuha.world
+
 ### Kanäle
 - Instagram: @wuha_music (https://www.instagram.com/wuha_music/)
 - TikTok: @wuha_music (https://www.tiktok.com/@wuha_music)

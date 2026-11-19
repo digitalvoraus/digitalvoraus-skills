@@ -39,7 +39,7 @@ LinkedIn ist kein Brand-Kanal im Guide → Profil/Seite beim Nutzer erfragen, ni
 - Zeile 1 = Hook, kurze Bildsätze, einfaches Englisch
 - Max. 1–2 Emojis, keine „Check out our new song!!!“, keine Superlative
 - Sign-off optional: "Feel the Groove."
-- Link: Spotify oder www.wuha.world
+- Link: Spotify-Link zum jeweiligen Song (Liste in `wuha-brand`), nicht Artist-Link
 - Hashtags: Instagram 3–5, TikTok 3–4, YouTube 3, Facebook 1–2, LinkedIn 3. Basis: `#WUHA #synthpop #synthwave #80s #newmusic`
 - Fehlendes Datum/Info → Platzhalter `[RELEASE DATE]`, nachfragen
 
